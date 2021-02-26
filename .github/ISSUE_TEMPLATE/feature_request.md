@@ -10,7 +10,6 @@ assignees: ''
 ## Details
 - Type of work: <!-- Frontend, Backend -->
 - Time Estimation:
-- 
 
 ## Description
 <!-- Describe what the feature should accomplish -->
