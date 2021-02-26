@@ -1,7 +1,7 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: ''
+name: New Feature
+about: Spec out a new feature :sparkles:
+title: 'Feature: '
 labels: ''
 assignees: ''
 
