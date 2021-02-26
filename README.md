@@ -27,3 +27,5 @@ Closed issues and pull requests will be moved to here
 ## Stories
 A milestone can be used to break down large issues into smaller ones. This gives all the relevant issues a central place, to keeps designs, documents etc.
 It also gives the ability to see how far along the feature is.
+
+Milestones can also be used for large groups of issues, for example bugs. this will help everyone visualise where we are at with them.
