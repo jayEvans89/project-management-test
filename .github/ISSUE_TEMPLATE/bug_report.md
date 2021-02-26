@@ -1,5 +1,5 @@
 ---
-name: Bug Report
+name: 'Bug Report :bug:'
 about: Create a bug report
 title: 'Bug: '
 labels: 'Is: Bug :bug:'

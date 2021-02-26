@@ -1,5 +1,5 @@
 ---
-name: New Feature
+name: 'New Feature :sparkles:'
 about: 'Spec out a new feature :sparkles:'
 title: 'Feature: '
 labels: ''
