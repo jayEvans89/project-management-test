@@ -11,7 +11,7 @@ assignees: ''
 <!-- A clear and concise description of what the bug is. -->
 
 **To Reproduce**
-Steps to reproduce the behavior:
+<!-- Steps to reproduce the behavior -->
 
 
 **Expected behavior**
@@ -32,7 +32,7 @@ Steps to reproduce the behavior:
  - Version [e.g. 22]
 
 **Additional context**
-Add any other context about the problem here.
+<!-- Add any other context about the problem here. -->
 
 **Related Issues**
 <!-- Add any related issues here -->
