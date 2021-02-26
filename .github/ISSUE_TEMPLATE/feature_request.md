@@ -1,6 +1,6 @@
 ---
 name: 'New Feature ✨'
-about: 'Spec out a new feature ✨'
+about: 'Spec out a new feature'
 title: 'Feature: '
 labels: ''
 assignees: ''
