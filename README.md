@@ -15,11 +15,11 @@ All newly created issues will that are added to the board will start here.
 #### In progress
 Developer moves the issue to here when they start work on it
 
-#### For Testing
-Once a PR has been merged, any issues that it closes will be moved here to allow testing that they are ready for QnA.
-
 #### Pull Requests
 Any created pull requests will be moved here automatically.
+
+#### For Testing
+Once a PR has been merged, any issues that it closes will be moved here to allow testing that they are ready for QnA.
 
 #### Done
 Closed PR's will be moved to here.
