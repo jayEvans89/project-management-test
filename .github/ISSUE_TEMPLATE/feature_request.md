@@ -2,19 +2,19 @@
 name: 'New Feature ✨'
 about: 'Spec out a new feature'
 title: 'Feature: '
-labels: ''
+labels: 'Is: New feature :sparkles:'
 assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+## Details
+- Type of work: <!-- Frontend, Backend -->
+- Time Estimation:
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+## Description
+<!-- Describe what the feature should accomplish -->
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+## Supporting Documentation/Data
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+
+## Related Issues
