@@ -5,8 +5,9 @@ Basic workflow to see how moving solely to Github would work.
 ## Issues
 Templates for new features and bugs have been made to make everything more consistent. Labels will help bring more visibility at a glance and provide better sorting/filtering.
 
-Issues can be found here https://github.com/jayEvans89/project-management-test/issues
-Labels can be found here https://github.com/jayEvans89/project-management-test/labels
+Issues can be found here https://github.com/jayEvans89/project-management-test/issues.
+
+Labels can be found here https://github.com/jayEvans89/project-management-test/labels.
 
 ## Sprints
 A project board can be used for a sprint. This allows everyone to see exactly where everything is at any point in time. The progress bar at the top also gives an indication as to how the sprint is going. Any remaining issues at the end of the sprint will be moved to the next sprint.
