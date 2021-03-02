@@ -6,7 +6,7 @@ basic workflow to see how moving solely to Github would work.
 Templates for new features and bugs have been made to make everything more consistent. Labels will help bring more visibility at a glance and provide better sorting/filtering.
 
 ## Sprints
-A project board can be used for a sprint. This allows everyone to see exactly where everything is at any point in time. The progress bar at the top also gives an indication as to how the sprint is going. Any remainging issues at the end of the sprint will be moved to the next sprint.
+A project board can be used for a sprint. This allows everyone to see exactly where everything is at any point in time. The progress bar at the top also gives an indication as to how the sprint is going. Any remaining issues at the end of the sprint will be moved to the next sprint.
 
 ### Board Automation
 #### To do
