@@ -24,11 +24,13 @@
 ## Images (Optional)
 <!-- If your change includes any ui/styling updates please add images to show whats changed -->
 
-## Does this introduce a breaking change?
+## Does this introduce a breaking change? If so, what?
 
 <!-- Yes -->
 <!-- No -->
 
-## What Jira ticket/s does this fix?
+## What Issue/s does this fix?
+<!-- Use GitHubs keyword syntax https://docs.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue -->
+<!-- To automatically close related issues once the PR is merged -->
 
 ## Other information (Optional)
