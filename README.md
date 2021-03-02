@@ -1,6 +1,6 @@
 # project-management-test
 
-basic workflow to see how moving solely to Github would work.
+Basic workflow to see how moving solely to Github would work.
 
 ## Issues
 Templates for new features and bugs have been made to make everything more consistent. Labels will help bring more visibility at a glance and provide better sorting/filtering.
