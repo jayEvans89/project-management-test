@@ -7,6 +7,7 @@ Templates for new features and bugs have been made to make everything more consi
 
 ## Sprints
 A project board can be used for a sprint. This allows everyone to see exactly where everything is at any point in time. The progress bar at the top also gives an indication as to how the sprint is going. Any remaining issues at the end of the sprint will be moved to the next sprint.
+Project boards can be found here https://github.com/jayEvans89/project-management-test/projects
 
 ### Board Automation
 #### To do
@@ -30,3 +31,5 @@ A milestone can be used to break down large issues into smaller ones. This gives
 It also gives the ability to see how far along the feature is.
 
 Milestones can also be used for large groups of issues, for example bugs. this will help everyone visualise where we are at with them.
+
+Milestones can be found here https://github.com/jayEvans89/project-management-test/milestones
