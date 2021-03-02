@@ -19,7 +19,7 @@ Developer moves the issue to here when they start work on it
 Any created pull requests will be moved here automatically.
 
 #### For Testing
-Once a PR has been merged, any issues that it closes will be moved here to allow testing that they are ready for QnA.
+Once a PR has been merged, any issues that it closes will be moved here to let testing know that they are ready for QnA.
 
 #### Done
 Closed PR's will be moved to here.
