@@ -3,7 +3,8 @@
 Basic workflow to see how moving solely to Github would work.
 
 ## Issues
-Templates for new features and bugs have been made to make everything more consistent. To view these try creating a new issue.
+Templates for new features and bugs have been made to make everything more consistent. More templates could be made for other types of work, for example documentation, adding unit tests, refactoring code etc.
+To view these try creating a new issue.
 
 Labels will help bring more visibility at a glance and provide better sorting/filtering.
 
