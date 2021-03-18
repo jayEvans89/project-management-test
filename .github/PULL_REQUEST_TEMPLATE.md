@@ -1,3 +1,10 @@
+---
+name: 'Pull Request'
+title: 'LAUN-: '
+assignees: ''
+
+---
+
 **⚠️ IMPORTANT ⚠️ Please make sure the following has been completed.**
 
 - [ ] Descriptive title
